@@ -1,6 +1,6 @@
 ---
 title: Java基础快速入门
-author: 查尔斯
+author: 星河漫步者
 date: 2020/10/01 10:24
 categories:
  - Java基础快速入门

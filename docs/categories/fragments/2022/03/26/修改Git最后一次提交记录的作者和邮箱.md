@@ -1,6 +1,6 @@
 ---
 title: 修改Git最后一次提交记录的作者和邮箱
-author: 查尔斯
+author: 星河漫步者
 date: 2022/03/26 10:30
 categories:
  - 杂碎逆袭史

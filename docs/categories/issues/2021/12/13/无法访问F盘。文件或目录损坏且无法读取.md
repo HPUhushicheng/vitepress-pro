@@ -1,6 +1,6 @@
 ---
 title: 无法访问 F:\。文件或目录损坏且无法读取。
-author: 查尔斯
+author: 星河漫步者
 date: 2021/12/13 22:57
 categories:
  - Bug万象集

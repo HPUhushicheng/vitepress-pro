@@ -1,6 +1,6 @@
 ---
 title: Docker 安装 MinIO 详细步骤
-author: 查尔斯
+author: 星河漫步者
 date: 2022/10/28 22:37
 categories:
  - 杂碎逆袭史

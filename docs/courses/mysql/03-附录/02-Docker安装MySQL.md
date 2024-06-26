@@ -1,6 +1,6 @@
 ---
 title: Docker 安装 MySQL 详细步骤
-author: 查尔斯
+author: 星河漫步者
 date: 2022/10/30 17:36
 categories:
  - MySQL快速入门

@@ -1,6 +1,6 @@
 ---
 title: 个人常用 Linux 命令
-author: 查尔斯
+author: 星河漫步者
 date: 2019/12/31 21:00
 isTop: true
 categories:

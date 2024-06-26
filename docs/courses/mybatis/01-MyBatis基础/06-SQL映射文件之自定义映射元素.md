@@ -1,6 +1,6 @@
 ---
 title: SQL映射文件之自定义映射元素
-author: 查尔斯
+author: 星河漫步者
 date: 2020/12/28 00:07
 categories:
  - MyBatis快速入门

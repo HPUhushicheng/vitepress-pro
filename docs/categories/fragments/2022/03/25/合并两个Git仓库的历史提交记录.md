@@ -1,6 +1,6 @@
 ---
 title: 合并两个Git仓库的历史提交记录
-author: 查尔斯
+author: 星河漫步者
 date: 2022/03/25 21:30
 categories:
  - 杂碎逆袭史

@@ -1,6 +1,6 @@
 ---
 title: 为指定Git仓库单独配置用户名和邮箱
-author: 查尔斯
+author: 星河漫步者
 date: 2022/03/28 21:29
 categories:
  - 杂碎逆袭史

@@ -1,6 +1,6 @@
 ---
 title: MyBatis快速入门
-author: 查尔斯
+author: 星河漫步者
 date: 2020/12/25 14:49
 categories:
  - MyBatis快速入门

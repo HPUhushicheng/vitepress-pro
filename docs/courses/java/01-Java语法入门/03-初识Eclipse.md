@@ -1,6 +1,6 @@
 ---
 title: 初识Eclipse
-author: 查尔斯
+author: 星河漫步者
 date: 2020/10/04 22:09
 categories:
  - Java基础快速入门

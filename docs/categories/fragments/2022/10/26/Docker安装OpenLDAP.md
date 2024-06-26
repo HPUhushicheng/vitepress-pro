@@ -1,6 +1,6 @@
 ---
 title: Docker 安装 OpenLDAP 详细步骤
-author: 查尔斯
+author: 星河漫步者
 date: 2022/10/26 20:28
 categories:
  - 杂碎逆袭史

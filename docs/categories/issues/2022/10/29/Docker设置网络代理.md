@@ -1,6 +1,6 @@
 ---
 title: Docker 设置网络代理
-author: 查尔斯
+author: 星河漫步者
 date: 2022/10/29 19:50
 categories:
  - Bug万象集

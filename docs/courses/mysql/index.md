@@ -1,6 +1,6 @@
 ---
 title: MySQL快速入门
-author: 查尔斯
+author: 星河漫步者
 date: 2022/10/22 21:21
 categories:
  - MySQL快速入门

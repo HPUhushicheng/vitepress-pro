@@ -1,6 +1,6 @@
 ---
 title: 一条SQL查询今年每月统计信息
-author: 查尔斯
+author: 星河漫步者
 date: 2021/11/22 18:22
 categories:
  - 方案春秋志

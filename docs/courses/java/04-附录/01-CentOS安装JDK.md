@@ -1,6 +1,6 @@
 ---
 title: CentOS 8.2 安装 JDK 1.8.0_202
-author: 查尔斯
+author: 星河漫步者
 date: 2022/10/23 11:29
 categories:
  - Java基础快速入门
